@@ -1,0 +1,44 @@
+.contador{
+    margin-top: 15px;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    align-items: center;
+    border-radius: 5px;
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: 0;
+    padding: 0.5rem;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:active {
+    background-color: rgb(143, 238, 143);
+    transform: scale(0.9);
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+.votos{
+    font-size: 32px;
+}
+
+.diminuir {
+    background-color: red;
+}
+
+.mostrar {
+    background-color: rgb(54, 157, 169);
+    margin-top: 5px;
+    padding: 3px;
+    font-weight: lighter;
+    font-size: 20px;
+}

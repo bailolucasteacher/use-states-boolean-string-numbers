@@ -1,0 +1,22 @@
+.card {
+    color: white;
+    background-color: grey;
+    padding: 2rem;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.imagem {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+}
+
+.cidade {
+    color: rgb(164, 205, 50);
+    font-weight: bold;
+}
