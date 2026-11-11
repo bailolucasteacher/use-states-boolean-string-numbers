@@ -46,3 +46,12 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
+.teste {
+	color: red;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	background-color: green;
+}
