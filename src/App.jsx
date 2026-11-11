@@ -6,6 +6,9 @@ function App() {
 
   return (
     <body>
+      <header className='teste'>
+        teste
+      </header>
       <Card />
       <Contador/>
     </body>
